@@ -17,16 +17,18 @@ I enjoy continuously learning new technologies, improving analytical thinking, a
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/ASSEMBLY-6E4C13?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy)
 ![ScikitLearn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn)
 ![LightGBM](https://img.shields.io/badge/LIGHTGBM-02569B?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBOOST-EC6B23?style=for-the-badge)
 
 ![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-017CEE?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql)
-
 ---
